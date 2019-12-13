@@ -19,6 +19,8 @@ spacebar to upgrade and see stats
 4. upgrade stats with 1 2 3 4 buttons
 
 
+[playScreen.PNG](/images/playScreen.PNG)
+
 
 
 ## how minim is used 
