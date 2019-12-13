@@ -9,7 +9,7 @@ wasd to move.
 spacebar to upgrade and see stats
 
 
-#how to play
+## how to play
 1. wasd to move around
 
 2. meet a note block
@@ -21,7 +21,7 @@ spacebar to upgrade and see stats
 
 
 
-#how minim is used 
+## how minim is used 
 
 it detects highest frequency from microphone input
 when the frequency matches the pre-defined frequency, the note breaks
