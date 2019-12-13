@@ -19,7 +19,7 @@ spacebar to upgrade and see stats
 4. upgrade stats with 1 2 3 4 buttons
 
 
-[playScreen](/images/playscreen.PNG)
+![playScreen](/images/playscreen.PNG)
 
 
 
